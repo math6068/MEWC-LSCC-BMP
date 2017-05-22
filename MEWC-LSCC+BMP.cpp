@@ -17,7 +17,9 @@
 
 // *************************************************************
 //         Date: 2016.10
-//     Revision: Extend LSCC+BMP from handling maximum vertec weight clique problem to handling maximum edge weight clique problem.
+//     Revision: Extend LSCC+BMP from handling maximum vertec weight clique problem to handling maximum edge weight clique problem; 
+// 		 Convert the weight data type from int to long double; 
+//               Change the static memory location to be the dynamic memory location.
 //       Author: Yi Fan   yi.fan4@griffithuni.edu.au     
 // =====================================================================================
 
